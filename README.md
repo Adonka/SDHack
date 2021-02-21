@@ -18,3 +18,6 @@ How to make a good impact in a short amount of time.
 
 ## What's next for Climate Cycle IRE 
 Submission for a fellowship or grant for further advancement for anybody interested. We will keep and post our project in LinkedIn as it is a good professional development and experience for all of our members.
+
+## Link for figma project
+https://www.figma.com/file/nib4HrCgXWQexNqgO8wnlH/Clean-Water-Access?node-id=59%3A2
